@@ -19,7 +19,7 @@
   },
   {
     "name": "Online-Archivkatalog",
-    "url": "https://katalog.burgerbib.ch/",
+    "url": "https://katalog.burgerbib.ch/detail.aspx?ID=129129",
     "icon": "https://icons.duckduckgo.com/ip3/katalog.burgerbib.ch.ico",
     "slug": "online-archivkatalog",
     "status": "up",
@@ -51,6 +51,24 @@
     "timeWeek": 682,
     "timeMonth": 682,
     "timeYear": 682,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Bibliothekskatalog",
+    "url": "https://slsp-bsb.primo.exlibrisgroup.com/discovery/search?vid=41SLSP_RBE:VU1",
+    "icon": "https://icons.duckduckgo.com/ip3/slsp-bsb.primo.exlibrisgroup.com.ico",
+    "slug": "bibliothekskatalog",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 423,
+    "timeDay": 423,
+    "timeWeek": 423,
+    "timeMonth": 423,
+    "timeYear": 423,
     "dailyMinutesDown": {}
   }
 ]
