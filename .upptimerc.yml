@@ -6,9 +6,11 @@ sites:
   - name: Website
     url: https://www.burgerbib.ch
   - name: Online-Archivkatalog
-    url: https://katalog.burgerbib.ch/
+    url: https://katalog.burgerbib.ch/detail.aspx?ID=129129
   - name: Archives Quickaccess
     url: https://www.archives-quickaccess.ch/bbb
+  - name: Bibliothekskatalog
+    url: https://slsp-bsb.primo.exlibrisgroup.com/discovery/search?vid=41SLSP_RBE:VU1
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -27,3 +29,11 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/10 * * * *"
