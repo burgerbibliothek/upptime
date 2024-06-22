@@ -22,19 +22,19 @@
     "url": "https://katalog.burgerbib.ch/detail.aspx?ID=129129",
     "icon": "https://icons.duckduckgo.com/ip3/katalog.burgerbib.ch.ico",
     "slug": "online-archivkatalog",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 3330,
-    "timeDay": 6064,
-    "timeWeek": 3330,
-    "timeMonth": 3330,
-    "timeYear": 3330,
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 4930,
+    "timeDay": 8351,
+    "timeWeek": 4930,
+    "timeMonth": 4930,
+    "timeYear": 4930,
     "dailyMinutesDown": {
-      "2024-06-22": 9
+      "2024-06-22": 39
     }
   },
   {
