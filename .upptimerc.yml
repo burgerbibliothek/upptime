@@ -40,7 +40,7 @@ workflowSchedule:
 # Translation
 i18n:
   activeIncidents: Aktive Ereignisse
-  allSystemsOperational: Alle Systeme sind funktionsfähig
+  allSystemsOperational: Alle Systeme sind einsatzbereit
   incidentReport: "Bericht Ereignis #$NUMBER →"
   activeIncidentSummary: Eröffnet am $DATE mit Beitrag $POSTS
   incidentTitle: Details zu Ereignis $NUMBER
@@ -55,8 +55,8 @@ i18n:
   pastIncidents: Vergangene Ereignisse
   pastIncidentsResolved: Behoben in $MINUTES Minuten mit Beitrag $POSTS
   liveStatus: Live-Status
-  overallUptime: "Insgesamte Uptime: $UPTIME"
-  overallUptimeTitle: Insgesamte Uptime
+  overallUptime: "Insgesamte Betriebszeit: $UPTIME"
+  overallUptimeTitle: Insgesamte Betriebszeit
   averageResponseTime: "Durchschnittliche Antwortzeit: $TIMEms"
   averageResponseTimeTitle: Durchschnittliche Antwortzeit
   sevelDayResponseTime: 7-tägige Antwortzeit
