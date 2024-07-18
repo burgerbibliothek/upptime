@@ -42,7 +42,7 @@
     "url": "https://www.archives-quickaccess.ch/bbb",
     "icon": "https://icons.duckduckgo.com/ip3/www.archives-quickaccess.ch.ico",
     "slug": "archives-quickaccess",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
@@ -54,6 +54,7 @@
     "timeMonth": 609,
     "timeYear": 609,
     "dailyMinutesDown": {
+      "2024-07-18": 0,
       "2024-07-16": 10,
       "2024-07-04": 27
     }
