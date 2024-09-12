@@ -4,9 +4,9 @@
     "url": "https://www.burgerbib.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.burgerbib.ch.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 925,
     "timeMonth": 928,
     "timeYear": 908,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   },
   {
     "name": "Online-Archivkatalog",
@@ -26,12 +28,12 @@
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.48%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.78%",
     "time": 2388,
     "timeDay": 1503,
     "timeWeek": 1362,
-    "timeMonth": 3232,
+    "timeMonth": 3086,
     "timeYear": 2388,
     "dailyMinutesDown": {
       "2024-09-01": 48,
