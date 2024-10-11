@@ -4,11 +4,11 @@
     "url": "https://www.burgerbib.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.burgerbib.ch.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 917,
     "timeDay": 1398,
@@ -16,6 +16,7 @@
     "timeMonth": 948,
     "timeYear": 917,
     "dailyMinutesDown": {
+      "2024-10-11": 0,
       "2024-09-12": 24
     }
   },
