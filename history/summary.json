@@ -82,9 +82,9 @@
     "url": "https://slsp-bsb.primo.exlibrisgroup.com/discovery/search?vid=41SLSP_RBE:VU1",
     "icon": "https://icons.duckduckgo.com/ip3/slsp-bsb.primo.exlibrisgroup.com.ico",
     "slug": "bibliothekskatalog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -94,6 +94,7 @@
     "timeMonth": 535,
     "timeYear": 598,
     "dailyMinutesDown": {
+      "2025-01-11": 0,
       "2024-09-24": 10
     }
   }
