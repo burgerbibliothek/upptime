@@ -4,7 +4,7 @@
     "url": "https://www.burgerbib.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.burgerbib.ch.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1207,
     "timeYear": 1007,
     "dailyMinutesDown": {
+      "2025-07-07": 0,
       "2025-03-11": 24,
       "2024-12-09": 16,
       "2024-10-11": 11,
