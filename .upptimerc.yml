@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Website
     url: https://www.burgerbib.ch
-  - name: Online-Archivkatalog
+  - name: Archivkatalog
     url: https://katalog.burgerbib.ch/detail.aspx?ID=129129
   - name: Archives Quickaccess
     url: https://www.archives-quickaccess.ch/bbb
