@@ -28,10 +28,10 @@
     "url": "https://katalog.burgerbib.ch/detail.aspx?ID=129129",
     "icon": "https://icons.duckduckgo.com/ip3/katalog.burgerbib.ch.ico",
     "slug": "archivkatalog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1198,
@@ -39,16 +39,18 @@
     "timeWeek": 1274,
     "timeMonth": 1336,
     "timeYear": 1198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-29": 2
+    }
   },
   {
     "name": "Archives Quickaccess",
     "url": "https://www.archives-quickaccess.ch/bbb",
     "icon": "https://icons.duckduckgo.com/ip3/www.archives-quickaccess.ch.ico",
     "slug": "archives-quickaccess",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.79%",
@@ -58,6 +60,7 @@
     "timeMonth": 694,
     "timeYear": 866,
     "dailyMinutesDown": {
+      "2025-10-29": 0,
       "2025-10-14": 14,
       "2025-09-06": 48,
       "2025-09-05": 6,
