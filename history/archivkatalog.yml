@@ -1,7 +1,7 @@
 url: https://katalog.burgerbib.ch/detail.aspx?ID=129129
-status: up
-code: 200
-responseTime: 1301
-lastUpdated: 2026-01-18T23:23:33.865Z
+status: down
+code: 503
+responseTime: 3344
+lastUpdated: 2026-01-19T21:51:49.321Z
 startTime: 2025-07-22T07:36:05.683Z
 generator: Upptime <https://github.com/upptime/upptime>
