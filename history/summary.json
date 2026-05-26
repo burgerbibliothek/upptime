@@ -59,9 +59,9 @@
     "url": "https://www.archives-quickaccess.ch/bbb",
     "icon": "https://icons.duckduckgo.com/ip3/www.archives-quickaccess.ch.ico",
     "slug": "archives-quickaccess",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.94%",
     "uptimeYear": "99.59%",
@@ -101,7 +101,8 @@
       "2026-05-09": 49,
       "2026-05-12": 252,
       "2026-05-15": 103,
-      "2026-05-18": 62
+      "2026-05-18": 62,
+      "2026-05-26": 0
     }
   },
   {
