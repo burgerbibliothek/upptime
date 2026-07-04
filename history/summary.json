@@ -62,17 +62,17 @@
     "url": "https://www.archives-quickaccess.ch/bbb",
     "icon": "https://icons.duckduckgo.com/ip3/www.archives-quickaccess.ch.ico",
     "slug": "archives-quickaccess",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
-    "time": 758,
-    "timeDay": 478,
-    "timeWeek": 1376,
-    "timeMonth": 847,
-    "timeYear": 696,
+    "uptimeDay": "93.92%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.68%",
+    "time": 757,
+    "timeDay": 502,
+    "timeWeek": 1269,
+    "timeMonth": 837,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2025-08-14": 14,
       "2025-09-06": 48,
@@ -100,7 +100,7 @@
       "2026-05-26": 108,
       "2026-05-30": 12,
       "2026-05-29": 11,
-      "2026-07-04": 0
+      "2026-07-04": 88
     }
   },
   {
