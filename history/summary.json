@@ -24,16 +24,16 @@
     "url": "https://katalog.burgerbib.ch/detail.aspx?ID=129129",
     "icon": "https://icons.duckduckgo.com/ip3/katalog.burgerbib.ch.ico",
     "slug": "archivkatalog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "97.94%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "99.20%",
-    "time": 1293,
-    "timeDay": 1533,
-    "timeWeek": 1495,
-    "timeMonth": 1475,
+    "time": 1292,
+    "timeDay": 1235,
+    "timeWeek": 1440,
+    "timeMonth": 1460,
     "timeYear": 1299,
     "dailyMinutesDown": {
       "2025-10-29": 12,
@@ -55,7 +55,8 @@
       "2026-07-07": 630,
       "2026-07-06": 9,
       "2026-07-17": 82,
-      "2026-07-28": 207
+      "2026-07-28": 207,
+      "2026-08-02": 0
     }
   },
   {
