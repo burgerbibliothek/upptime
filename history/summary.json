@@ -64,13 +64,13 @@
     "url": "https://www.archives-quickaccess.ch/bbb",
     "icon": "https://icons.duckduckgo.com/ip3/www.archives-quickaccess.ch.ico",
     "slug": "archives-quickaccess",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 752,
+    "time": 751,
     "timeDay": 551,
     "timeWeek": 644,
     "timeMonth": 655,
@@ -103,7 +103,8 @@
       "2026-05-30": 12,
       "2026-05-29": 11,
       "2026-07-04": 88,
-      "2026-07-08": 149
+      "2026-07-08": 149,
+      "2026-08-09": 0
     }
   },
   {
