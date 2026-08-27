@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1077,
-    "timeDay": 943,
-    "timeWeek": 980,
+    "timeDay": 1082,
+    "timeWeek": 999,
     "timeMonth": 1027,
-    "timeYear": 1045,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2025-11-27": 24
     }
@@ -24,17 +24,17 @@
     "url": "https://katalog.burgerbib.ch/detail.aspx?ID=129129",
     "icon": "https://icons.duckduckgo.com/ip3/katalog.burgerbib.ch.ico",
     "slug": "archivkatalog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.16%",
     "time": 1311,
-    "timeDay": 1624,
-    "timeWeek": 1666,
-    "timeMonth": 1556,
-    "timeYear": 1332,
+    "timeDay": 0,
+    "timeWeek": 1703,
+    "timeMonth": 1544,
+    "timeYear": 1331,
     "dailyMinutesDown": {
       "2025-10-29": 12,
       "2026-01-19": 20,
@@ -57,7 +57,8 @@
       "2026-07-17": 82,
       "2026-07-28": 207,
       "2026-08-02": 131,
-      "2026-08-09": 35
+      "2026-08-09": 35,
+      "2026-08-27": 3
     }
   },
   {
@@ -65,17 +66,17 @@
     "url": "https://www.archives-quickaccess.ch/bbb",
     "icon": "https://icons.duckduckgo.com/ip3/www.archives-quickaccess.ch.ico",
     "slug": "archives-quickaccess",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.59%",
-    "time": 750,
-    "timeDay": 767,
-    "timeWeek": 744,
-    "timeMonth": 676,
-    "timeYear": 697,
+    "time": 744,
+    "timeDay": 397,
+    "timeWeek": 668,
+    "timeMonth": 672,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2025-09-06": 48,
       "2025-09-05": 6,
@@ -107,7 +108,8 @@
       "2026-08-09": 161,
       "2026-08-12": 72,
       "2026-08-13": 109,
-      "2026-08-14": 8
+      "2026-08-14": 8,
+      "2026-08-27": 0
     }
   },
   {
@@ -122,9 +124,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 612,
-    "timeDay": 601,
-    "timeWeek": 784,
-    "timeMonth": 758,
+    "timeDay": 457,
+    "timeWeek": 718,
+    "timeMonth": 748,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2025-11-08": 10
