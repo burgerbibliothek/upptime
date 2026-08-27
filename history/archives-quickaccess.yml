@@ -1,7 +1,7 @@
 url: https://www.archives-quickaccess.ch/bbb
-status: up
-code: 200
-responseTime: 767
-lastUpdated: 2026-08-25T23:27:16.118Z
+status: down
+code: 503
+responseTime: 397
+lastUpdated: 2026-08-27T04:38:05.677Z
 startTime: 2024-06-19T08:15:29.183Z
 generator: Upptime <https://github.com/upptime/upptime>
